@@ -1,6 +1,6 @@
 class Shared {
     fun getString(): String {
         println("Running in Shared")
-        return "Hello from Kotlin Publish"
+        return "Hello from Kotlin Publish Test"
     }
 }
